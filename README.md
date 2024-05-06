@@ -3,13 +3,12 @@
 
 - 🌱 I’m currently learning **Javascript,React js and Node js(soon typescript)**
 
-- 💬 Ask me about **React and CSS**
+- 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **senseislade1@gmail.com**
 
 - ⚡ Fun fact **Marlon is very competitive, He beat is own record(longest I've ever coded) Last time it was 10hrs but now, It's 16hrs.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
