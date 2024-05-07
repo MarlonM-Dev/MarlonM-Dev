@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **senseislade1@gmail.com**
 
-- ⚡ Fun fact **Marlon is very competitive, He beat is own record(longest I've ever coded) Last time it was 10hrs but now, It's 16hrs.**
+- ⚡ Fun fact: **The first coding language i attempted learnt was python**
 
 <p align="left">
 </p>
