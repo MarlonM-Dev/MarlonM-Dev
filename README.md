@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Marlon 👋</h1>
-<h3 align="center">A self-taught web dev from DBN South Africa</h3>
+<h3 align="center">Front end web developer</h3>
 
 - 🌱 I’m currently learning **Javascript,React js and Node js(soon typescript)**
 
